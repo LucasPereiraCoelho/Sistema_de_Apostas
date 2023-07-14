@@ -1,4 +1,4 @@
-# Sistema_de_Apostas
+# Sistema de Apostas
 Sistema de apostas realizado durante a aula de Padrões com Inteface Gráfica, com os seguintes requisitos:
 
 
